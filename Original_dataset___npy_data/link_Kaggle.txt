@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+Due the big size of the dataset, we choose the host it in Kaggle :
+
+https://www.kaggle.com/datasets/sfetni/spinodal-decomposition-datasets
+=======
+
+Due to the big size of the dataset, we host it here:
+
+https://www.kaggle.com/datasets/sfetni/spinodal-decomposition-datasets
+>>>>>>> b02847339a7d70ac386265fca08c260be2c31f3a
